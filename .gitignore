@@ -7,5 +7,9 @@ dist/
 build/
 *.egg-info/
 
+# Windows tray flyout build output
+flyout/bin/
+flyout/obj/
+
 .pr-candidates.md
 /tmp/
